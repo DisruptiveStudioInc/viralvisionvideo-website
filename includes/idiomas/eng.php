@@ -21,7 +21,7 @@ $Menu_Btn2 = 'Register';
 // Hero
 //-------------------------//
 
-$Hero = "Your direct gateway to unlimited passive income with YouTube";
+$Hero = "Your direct gateway to unlimited passive income with <span class='tc-pri'>YouTube</span>";
 
 //-------------------------//
 // Intro
@@ -74,8 +74,7 @@ $Calcula_cost_05 = "Thumbnail (Cover) Creation";
 $Calcula_cost_06 = "Script, Prompt, and Copywriting Tools";
 
 $Calcula_total = "Estimated Total";
-$Calcula_text = "With V3 Viral Vision Video, you get all this included for a one-time purchase of only
- $6,000 USD — and without having to do anything yourself.";
+$Calcula_text = "With V3 Viral Vision Video, you get all of this included with a one-time purchase without having to do anything yourself.";
 
  //-------------------------//
 // Testimonials

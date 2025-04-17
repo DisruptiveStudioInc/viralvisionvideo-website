@@ -21,7 +21,7 @@ $Menu_Btn2 = 'Register';
 // Hero
 //-------------------------//
 
-$Hero = "Tu puerta directa a ingresos pasivos ilimitados con Youtube";
+$Hero = "Tu puerta directa a ingresos pasivos ilimitados con <span class='tc-pri'>YouTube</span>";
 
 //-------------------------//
 // Intro
@@ -37,7 +37,7 @@ $Intro_Text = "Conviértete en socio de un canal diseñado para generar ingresos
 $About_01 = "Nosotros<br>creamos";
 $About_02 = "Nosotros<br>administramos";
 
-$About_03 = "YouTube te deposita<br>directo a ti";
+$About_03 = "YouTube te deposita<br>directamente";
 $About_04 = "Con nuestro sistema exclusivo Autopilot AI, combinamos IA avanzada con un equipo de expertos que gestionan todo por ti.";
 
 //-------------------------//
@@ -74,7 +74,7 @@ $Calcula_cost_05 = "Creación de Thumbnails (Portadas)";
 $Calcula_cost_06 = "Software para Guiones, Prompts y Scripts";
 
 $Calcula_total = "Total Estimado";
-$Calcula_text = "Con V3 Viral Vision Video, recibes todo esto incluido por una compra única de solo $6,000 USD — y sin tener que hacer nada tú mismo.";
+$Calcula_text = "Con V3 Viral Vision Video, recibes todo esto incluido por una compra única sin tener que hacer nada tú mismo.";
 
 //-------------------------//
 // Testimonials
