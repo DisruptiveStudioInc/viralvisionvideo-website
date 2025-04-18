@@ -28,7 +28,7 @@ $Hero = "Tu puerta directa a ingresos pasivos ilimitados con <span class='tc-pri
 //-------------------------//
 
 $Intro_Title = "La única empresa en el mundo que crea y gestiona tu canal de YouTube llave en mano, <span class='tc-pri'>100%  automatizado</span>";
-$Intro_Text = "Conviértete en socio de un canal diseñado para generar ingresos pasivos y hacer crecer tu canal de YouTube de forma constante.";
+$Intro_Text = "Conviértete en dueño de un canal diseñado para generar ingresos pasivos y hacer crecer tu canal de YouTube de forma constante.";
 
 //-------------------------//
 // About
@@ -74,7 +74,7 @@ $Calcula_cost_05 = "Creación de Thumbnails (Portadas)";
 $Calcula_cost_06 = "Software para Guiones, Prompts y Scripts";
 
 $Calcula_total = "Total Estimado";
-$Calcula_text = "Con V3 Viral Vision Video, recibes todo esto incluido por una compra única sin tener que hacer nada tú mismo.";
+$Calcula_text = "Con V3 Viral Vision Video, obtienes todo esto incluido, sin necesidad de ser un experto en YouTube o IA.";
 
 //-------------------------//
 // Testimonials
@@ -94,7 +94,7 @@ $Results_02 ="Más de 500,000 canales de YouTube en todo el mundo ganan $1,000 d
 //-------------------------//
 
 $Benefits_Title_01 = "Monetización rápida";
-$Benefits_Text_01 = "Canales monetizados en el menor tiempo posible: entre 6 y 8 meses, y en muchos casos, en solo 1 mes.";
+$Benefits_Text_01 = "Canales monetizados en el menor tiempo posible: entre 6 y 8 meses promedio.";
 
 $Benefits_Title_02 = "Crecimiento explosivo";
 $Benefits_Text_02 = "Canales que alcanzan miles de suscriptores y/o videos con millones de vistas en menos de 12 meses.";
@@ -105,15 +105,15 @@ $Benefits_Text_03 = "Canales que están creando imperios digitales de ingresos p
 $Benefits_Title_04 = "Altos ingresos";
 $Benefits_Text_04 = "Muchos canales maduros en EE. UU. generan entre $5,000 y $10,000 dólares mensuales, y algunos superan los $20,000 al mes.";
 
-$Benefits_Title_05 = "¡Recompra!";
+$Benefits_Title_05 = "¡Obtén más canales!";
 $Benefits_Text_05 = "Al monetizar fuertemente tu canal, compra más canales de forma ilimitada.";
 
 //-------------------------//
 // Channels
 //-------------------------//
 
-$Channels_01 = "Solo<br><span class='h1-super'>5,000</span><br>canales disponibles";
-$Channels_02 = "Únicamente 5,000 personas en el mundo podrán asegurar uno de estos canales llave en mano.";
+$Channels_01 = "Solo<br><span class='h1-super'>1,000</span><br>canales disponibles";
+$Channels_02 = "Únicamente 1,000 personas en el mundo podrán asegurar uno de estos canales llave en mano.";
 
 $Channels_sold = "Vendido";
 $Channels_available = "Disponible";
@@ -126,7 +126,7 @@ $Why_Title = "¿Porqué Youtube es la mejor opción digital en 2025-2027?";
 
 $Why_01 = "2,500 millones de usuarios activos cada mes";
 $Why_02 = "1,000 millones de visualizaciones diarias";
-$Why_03 = "En 2024, YouTube pagó más de $31,500,000,000 USD a creadores (aprox. $535,500,000,000 MXN)";
+$Why_03 = "En 2024, YouTube pagó más de $31,500,000,000 USD a creadores (aprox. $620,000,000,000 MXN)";
 $Why_04 = "Videos largos = más anuncios y más ingresos";
 $Why_05 = "Diversificación de ingresos: Ads, membresías, Super Chats, patrocinios";
 $Why_06 = "Contenido evergreen = ingresos pasivos a largo plazo";

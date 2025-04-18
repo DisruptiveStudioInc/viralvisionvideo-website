@@ -74,7 +74,7 @@ $Calcula_cost_05 = "Thumbnail (Cover) Creation";
 $Calcula_cost_06 = "Script, Prompt, and Copywriting Tools";
 
 $Calcula_total = "Estimated Total";
-$Calcula_text = "With V3 Viral Vision Video, you get all of this included with a one-time purchase without having to do anything yourself.";
+$Calcula_text = "With V3 Viral Vision Video, you get all of this included without needing to be an expert in YouTube or AI.";
 
  //-------------------------//
 // Testimonials
@@ -94,7 +94,7 @@ $Results_02 ="More than 500,000 YouTube channels around the world earn $1,000 US
 //-------------------------//
 
 $Benefits_Title_01 = "Fast monetization";
-$Benefits_Text_01 = "Channels monetized in the shortest time possible: between 6 to 8 months, and in many cases, in just 1 month.";
+$Benefits_Text_01 = "Monetized channels in the shortest time possible: between 6 to 8 months on average.";
 
 $Benefits_Title_02 = "Explosive growth";
 $Benefits_Text_02 = "Channels reaching thousands of subscribers and/or videos with millions of views in under 12 months.";
@@ -105,15 +105,15 @@ $Benefits_Text_03 = "Channels that are building digital empires of passive incom
 $Benefits_Title_04 = "High income";
 $Benefits_Text_04 = "Many mature channels in the U.S. generate between $5,000 and $10,000 USD per month, and some exceed $20,000/month.";
 
-$Benefits_Title_05 = "Buy Back!";
+$Benefits_Title_05 = "Get more channels!";
 $Benefits_Text_05 = "Once your channel is strongly monetized, buy more channels with no limits.";
 
 //-------------------------//
 // Channels
 //-------------------------//
 
-$Channels_01 = "Only<br><span class='h1-super'>5,000</span><br>channels available.e";
-$Channels_02 = "Only 5,000 people in the world will be able to secure one of these turnkey channels.";
+$Channels_01 = "Only<br><span class='h1-super'>1,000</span><br>channels available.e";
+$Channels_02 = "Only 1,000 people in the world will be able to secure one of these turnkey channels.";
 
 $Channels_sold = "Sold";
 $Channels_available = "Available";
@@ -126,7 +126,7 @@ $Why_Title = "Why is YouTube the best digital option for 2025–2027?";
 
 $Why_01 = "2.5 billion active users each month";
 $Why_02 = "1 billion daily viewss";
-$Why_03 = "In 2024, YouTube paid over $31,500,000,000 USD to creators (approx. $535,500,000,000 MXN)";
+$Why_03 = "In 2024, YouTube paid over $31,500,000,000 USD to creators (approx. $620,000,000,000 MXN)";
 $Why_04 = "Long videos = more ads & more revenue";
 $Why_05 = "Revenue diversification: Ads, memberships, Super Chats, sponsorshipss";
 $Why_06 = "Evergreen content = long-term passive income";
