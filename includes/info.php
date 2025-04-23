@@ -48,8 +48,8 @@
     //-------------------------//
 
     $Menu_Btn = array(
-        array($Menu_Btn1, "https://my.linkhere.com/"),
-        array($Menu_Btn2, "https://my.linkhere.com/join/{$_SESSION['user_replica']}")
+        array($Menu_Btn1, "https://my.viralyoutube.com/"),
+        array($Menu_Btn2, "https://my.viralyoutube.com/join/{$_SESSION['user_replica']}")
     );
 
 ?>
