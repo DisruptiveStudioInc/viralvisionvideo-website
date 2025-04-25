@@ -504,17 +504,17 @@
 		</form>
 
 		<div class="jc-center mb-30 g-30">
-            <span class="t-c">
+            <!--<span class="t-c">
     			<a href="https://youtube.com/@v3videoceleb" aria-label="Visit youtube" target="_blank" class="v-white c-ter icon br-30 icon-youtube c-size"></a>
                 <p style="font-size:0.6rem;">@v3videoceleb</p>
             </span>
             <span class="t-c">
             <a href="https://youtube.com/@v3videovariety" aria-label="Visit youtube" target="_blank" class="v-white c-pri icon br-30 icon-youtube c-size"></a>
             <p style="font-size:0.6rem;">@v3videovariety</p>
-            </span>
+            </span>-->
             <span class="t-c">
-            <a href="https://youtube.com/@v3viralvisionvideo" aria-label="Visit youtube" target="_blank" class="v-white c-sec icon br-30 icon-youtube c-size"></a>
-            <p style="font-size:0.6rem;">@v3viralvisionvideo</p>
+            <a href="https://youtube.com/@v3viralvisionvideo" style="transform: scale(1.5);" aria-label="Visit youtube" target="_blank" class="v-white c-sec icon br-30 icon-youtube c-size"></a>
+            <p class="mt-30">@v3viralvisionvideo</p>
             </span>
 		</div>
 
